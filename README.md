@@ -4,7 +4,7 @@ A Calculator made using HTML, CSS and JAVASCRIPT. It performs basic functions su
 - Uses HTML, CSS & JAVASCRIPT
 - Glassmorphism is used
 - Uses a muted autoloop video as the background
-- COntributors are welcome
+- Contributors are welcome
 
 ## Video
 
